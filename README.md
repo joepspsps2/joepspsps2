@@ -35,6 +35,10 @@ I build and run a network of public websites in Taiwan **by directing a team of 
 | Watchdog *(private)* | Monitors logins, deployments and uptime across the network; alerts to Discord |
 | Site kit *(private)* | Starter kit every new site is generated from — sitemaps, search-engine pings, lint rules |
 
+## Open source
+
+- **[dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)** (9.8k★) — added 343 Taiwan township-level divisions and fixed misfiled cities and native names ([#1635](https://github.com/dr5hn/countries-states-cities-database/pull/1635), merged)
+
 ## How I build
 
 - **One knowledge base as the control tower.** A private wiki holds every decision, rule and hand-off, so dozens of parallel agent sessions stay consistent.
